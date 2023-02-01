@@ -9,3 +9,6 @@ Find business opportunities and insights and to propose any data driven action t
 - Perform robust exploratory analysis, using advanced analytical tools and statistical methods to generate data products to optimize business results (Predictive and clusterization models)
 - Describe customer segmentation based on customer behaviors’.
 - Create a predictive model which allows the company to maximize the profit of the next marketing campaign.
+### Dataset:
+
+[Dataset source](https://www.kaggle.com/datasets/jackdaoud/marketing-data)
